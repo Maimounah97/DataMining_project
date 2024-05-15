@@ -1,0 +1,9 @@
+html , body{
+    background-color: rgb(204, 229, 245);
+}
+.title{
+    font-family: "Julee";
+}
+.display-data , .relation-derived, .rules-derived{
+    display:none ;
+}
